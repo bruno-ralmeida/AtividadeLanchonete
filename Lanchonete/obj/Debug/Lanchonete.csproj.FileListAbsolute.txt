@@ -1,0 +1,7 @@
+C:\Users\xxnbr\source\repos\ProvaLanchonete\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\xxnbr\source\repos\ProvaLanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\xxnbr\source\repos\ProvaLanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\xxnbr\source\repos\ProvaLanchonete\Lanchonete\obj\Debug\Lanchonete.csprojAssemblyReference.cache
+C:\Users\xxnbr\source\repos\ProvaLanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\xxnbr\source\repos\ProvaLanchonete\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\xxnbr\source\repos\ProvaLanchonete\Lanchonete\obj\Debug\Lanchonete.pdb
